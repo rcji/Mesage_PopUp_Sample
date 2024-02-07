@@ -1,0 +1,10 @@
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\bin\Debug\Mesage_Pop_up_Sample.exe.config
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\bin\Debug\Mesage_Pop_up_Sample.exe
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\bin\Debug\Mesage_Pop_up_Sample.pdb
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\obj\Debug\Mesage Pop-up Sample.csproj.AssemblyReference.cache
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\obj\Debug\Mesage_Pop_up_Sample.Properties.Resources.resources
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\obj\Debug\Mesage Pop-up Sample.csproj.GenerateResource.cache
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\obj\Debug\Mesage Pop-up Sample.csproj.CoreCompileInputs.cache
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\obj\Debug\Mesage_Pop_up_Sample.exe
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\obj\Debug\Mesage_Pop_up_Sample.pdb
+C:\Users\Predator\RiderProjects\Mesage Pop-up Sample\Mesage Pop-up Sample\obj\Debug\Mesage_Pop_up_Sample.Form1.resources
